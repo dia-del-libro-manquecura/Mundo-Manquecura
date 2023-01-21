@@ -24,24 +24,16 @@ html{
     color: black;
     text-align: left;
 }
-.tittle_uno{
-  position: relative;
-  left: 5px;
+.tittle_uno{;
     color: rgb(26, 44, 110);
 }
 .tittle_dos{
-  position: relative;
-  left: 5px;
     color: rgb(26, 44, 110);
 }
 .tittle_tres{
-  position: relative;
-  left: 5px;
     color: rgb(26, 44, 110);
 }
 .tittle_cuatro{
-  position: relative;
-  left:5px;
     color: rgb(26, 44, 110);
 }
 .img1{
