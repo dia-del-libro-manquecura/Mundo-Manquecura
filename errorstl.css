@@ -1,0 +1,21 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+}
+.error_title{
+    text-align: center;
+    font-size: large;
+}
+.err_txt{
+    color: black;
+
+    text-align: center;
+}
+.img_uno{
+    text-align: center;
+}
+.back_link{
+    border: none;
+    text-align: center;
+    font-size: large;
+}
