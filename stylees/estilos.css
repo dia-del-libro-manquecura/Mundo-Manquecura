@@ -24,14 +24,14 @@ html{
 }
 .bloque3{
     color: black;
-    text-align:left;
+    text-align:center;
 }
 .bloque4{
     color: black;
-    text-align: left;
+    text-align: center;
 }
 .tittle_uno{
-  text-align: left;
+  text-align: center;
   color: rgb(26, 44, 110);
 }
 .tittle_dos{
@@ -39,7 +39,7 @@ html{
   color: rgb(26, 44, 110);
 }
 .tittle_tres{
-  text-align: left;
+  text-align: right;
   color: rgb(26, 44, 110);
 }
 .tittle_cuatro{
