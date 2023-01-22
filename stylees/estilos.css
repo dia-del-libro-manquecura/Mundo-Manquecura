@@ -8,6 +8,7 @@ html{
 
 }
 .banner{
+  text-aling:left;
   display: block;
   margin-left: auto;
   margin-right: 1px;
