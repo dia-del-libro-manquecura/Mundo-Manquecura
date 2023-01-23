@@ -30,17 +30,15 @@ html{
     color: black;
 }
 .tittle_uno{
-  text_aling:right;
-  margin-left:0px;
-  margin-right:5px;
+  text_aling:center;
   color: rgb(26, 44, 110);
 }
 .tittle_dos{
-  text-align:center;
+  text-align:left;
   color: rgb(26, 44, 110);
 }
 .tittle_tres{
-  text-align: center;
+  text-align:center;
   color: rgb(26, 44, 110);
 }
 .tittle_cuatro{
