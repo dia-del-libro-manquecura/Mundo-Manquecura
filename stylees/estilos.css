@@ -30,7 +30,9 @@ html{
     color: black;
 }
 .tittle_uno{
-  text-align: left;
+  text_aling:right;
+  margin-left:0px;
+  margin-right:5px;
   color: rgb(26, 44, 110);
 }
 .tittle_dos{
@@ -39,7 +41,6 @@ html{
 }
 .tittle_tres{
   text-align: center;
-  margin-right:5px;
   color: rgb(26, 44, 110);
 }
 .tittle_cuatro{
