@@ -30,19 +30,19 @@ html{
     color: black;
 }
 .tittle_uno{
-  text_aling:center;
+  text_aling:right;
   color: rgb(26, 44, 110);
 }
 .tittle_dos{
-  text-align:left;
+  text-align:right;
   color: rgb(26, 44, 110);
 }
 .tittle_tres{
-  text-align:center;
+  text-align:right;
   color: rgb(26, 44, 110);
 }
 .tittle_cuatro{
-  text-align:left;
+  text-align:right;
   color: rgb(26, 44, 110);
 }
 .img1{
