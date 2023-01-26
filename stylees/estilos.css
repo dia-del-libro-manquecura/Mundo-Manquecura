@@ -20,16 +20,18 @@ html{
   background-color: rgb(26, 44, 110);
 }
 .tittle_uno{
-  font-size:small;
+  font-size:medium;
   color: rgb(26, 44, 110);
 }
 .tittle_dos{
   color: rgb(26, 44, 110);
 }
 .tittle_tres{
+    margin-right:2px;
   color: rgb(26, 44, 110);
 }
 .tittle_cuatro{
+  
   color: rgb(26, 44, 110);
 }
 .img1{
