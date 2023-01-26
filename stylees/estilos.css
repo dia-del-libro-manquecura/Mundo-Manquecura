@@ -8,7 +8,7 @@ html{
     text-align: center;
 }
 .q_dll{
-    margrin-left:50px;
+    margrin-left:20px;
     margrin-right:30px;
     color:black;
 }
@@ -30,8 +30,8 @@ html{
   color: rgb(26, 44, 110);
 }
 .tittle_tres{
-    margin-left:auto;
-    margin-right:2px;
+    margin-left:30px;
+    margin-right:50px;
   color: rgb(26, 44, 110);
 }
 .tittle_cuatro{
