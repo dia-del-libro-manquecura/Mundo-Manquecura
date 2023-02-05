@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<!--                          
+           ,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                     
+         /@@@                                   @@@                                   
+        #@@                                      @@@ 
+        @@@           ___             _  _        @@@
+        @@@     __ _ / _ \ _ __ __  _| || |       @@&
+        @@@    / _` | | | | '_ \\ \/ / || |_      @@&
+        @@@   | (_| | |_| | | | |>  <|__   _|     @@&
+        @@@    \__, |\___/|_| |_/_/\_\  |_|       @@&
+        @@@    |___/                             @@&
+        %@@                                     &@@
+         (@@@                                  @@@
+           /@@@@@@@@@@@@@@@@@@@@@@@        @@@@@@   
+                                  @@@@     @@    
+                                     @@@@  @@
+                                        @@@@@ 
+                                           @@
+                                    /^\/^\
+                                  _|__|  O|
+                        \/     /~     \_/ \
+                          \____|__________/  \
+                                \_______      \
+                                        `\     \                 \
+                                          |     |                  \
+                                         /      /                    \
+                                        /     /                       \\
+                                      /      /                         \ \
+                                     /     /                            \  \
+                                   /     /             _----_            \   \
+                                  /     /           _-~      ~-_         |   |
+                                 (      (        _-~    _--_    ~-_     _/   |
+                                  \      ~-____-~    _-~    ~-_    ~-_-~    /
+                                    ~-_           _-~          ~-_       _-~
+                                       ~--______-~                ~-___-~
+-->
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/vnd.microsoft.icon" href="imgs/icno.ico">
+    <link rel="stylesheet" href="stylees/vlostilos.css">
+    <title>Volumenes</title>
+</head>
+<body>
+    <header>
+        <nav class="nav">
+            <button type="button" class="nav-close" onclick="toggleNav()">
+                <ion-icon name="close-outline" size="large"></ion-icon>
+            </button>
+            <div class="nav-link-container">
+                <a href="index.html" class="nav__link">
+                    <span class="nav__text">Inicio</span>
+                </a>
+                <a href="volumenes/volms.html" class="nav__link">
+                    <span class="nav__text">Volumenes</span>
+                </a>
+                <a href="info/informacion.html" class="nav__link">
+                    <span class="nav__text">Informacion</span>
+                </a>
+                <a href="thx/thx.html" class="nav__link">
+                    <span class="nav__text">Agadecimientos</span>
+                </a>
+            </div>
+        </nav>
+        <main class="main">
+            <button style="border:none;border-color:orange;left:1px;height: 60px;width: 60px;background-color: orange;" onclick="toggleNav()"><ion-icon name="menu" size="large"></ion-icon></button>
+        </main>
+        <script>
+            function toggleNav(){
+                document.body.classList.toggle("nav-open");
+            }
+        </script>
+          <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+          <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+          
+        <div class="banner"></div>
+        <div class="Titulo">
+            <h1>Volumenes</h1>
+        </div>
+    </header>
+</body>
+</html>
