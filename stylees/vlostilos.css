@@ -19,21 +19,22 @@ html{
 }
 .txt1{
     color:black;
-    margin-left:5px;
+    margin-left:7px;
 }
 .tit2023{
-    margin-left:20px;
+    margin-left:3px;
     color:black;
 }
 .info2023{
-    left: 5px;
+    margin-left:5px;
     color:black;
 }
 .tit2022{
-    text-indent: 20px;
+    margin-left:3px;
     color:black;
 }
 .info2022{
+    text-align:right;
     margin-left:5px;
     color:black;
 }
