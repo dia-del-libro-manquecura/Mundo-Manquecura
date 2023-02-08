@@ -23,8 +23,8 @@ html{
     color:black;
 }
 .info2023{
-    position: relative;
-    left: 30px;
+    position: fixed;
+    left: 20px;
     color:black;
 }
 .tit2022{
