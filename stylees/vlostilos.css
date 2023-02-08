@@ -17,12 +17,17 @@ html{
 .txt1{
     margin-right:40px;
     color:black;
+    text-indent: 50px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
 }
 .tit2023{
     margin-right:20px;
     color:black;
 }
 .info2023{
+    text-indent: 30px;
     margin-right:40px;
     color:black;
 }
@@ -31,6 +36,7 @@ html{
     color:black;
 }
 .info2022{
+    text-indent: 220px;
     margin-right:40px;
     color:black;
 }
