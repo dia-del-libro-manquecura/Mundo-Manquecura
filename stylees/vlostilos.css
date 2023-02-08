@@ -11,6 +11,9 @@ html{
   height: 60px;
   background-color: rgb(26, 44, 110);
 }
+.img2{
+    text-align:center;
+} 
 .Titulo{
     text-align:center;
 }
