@@ -15,12 +15,8 @@ html{
     text-align:center;
 }
 .txt1{
-    margin-right:40px;
     color:black;
-    text-indent: 50px;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
+    text-indent: 20px;
 }
 .tit2023{
     margin-right:20px;
@@ -28,16 +24,15 @@ html{
 }
 .info2023{
     text-indent: 30px;
-    margin-right:40px;
     color:black;
 }
 .tit2022{
-    margin-right:20px;
+    text-indent: px;
     color:black;
 }
 .info2022{
-    text-indent: 220px;
-    margin-right:40px;
+    margin-right:20px;
+    padding-right:20px;
     color:black;
 }
 
