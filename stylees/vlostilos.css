@@ -16,24 +16,22 @@ html{
 }
 .txt1{
     color:black;
-    text-indent: 20px;
+    margin-left:5px;
 }
 .tit2023{
     margin-left:20px;
     color:black;
 }
 .info2023{
-    position: fixed;
-    left: 20px;
+    left: 5px;
     color:black;
 }
 .tit2022{
-    text-indent: px;
+    text-indent: 20px;
     color:black;
 }
 .info2022{
-    margin-right:20px;
-    padding-right:20px;
+    margin-left:5px;
     color:black;
 }
 
