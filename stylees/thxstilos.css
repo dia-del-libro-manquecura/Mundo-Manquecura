@@ -11,8 +11,14 @@ html{
   height: 60px;
   background-color: rgb(26, 44, 110);
 }
-
-
+.Titulo{
+    text-align:center;
+    color:black;
+}
+.texto_uno{
+    text-align:center;
+    color:black;
+}
 body {
     margin: 0;
     overflow-x: hidden;
