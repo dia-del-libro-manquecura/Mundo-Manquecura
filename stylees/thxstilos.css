@@ -2,6 +2,16 @@ html{
     font-family: Arial, Helvetica, sans-serif;
     background-color: whitesmoke;
 }
+.{
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 50px;
+	text-shadow: #A3A3A3 1px 1px 1px;
+}
+. .block-line > span {
+	display: inline-block;
+}
+
 .banner{
   text-align:right;
   display: block;
