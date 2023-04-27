@@ -2,7 +2,33 @@ html{
     font-family: Arial, Helvetica, sans-serif;
     background-color: whitesmoke;
 }
-
+.thxone{
+    text-align:center;
+    color:black;
+}
+.thxonetitle.{
+    text-align:center;
+    color:black;
+}
+.rodrigodfoto{
+    text-align:center;
+}
+.thxdostitle{
+    text-align:center;
+    color:black;
+}
+.thxdos{
+    text-align:center;
+    color:black;
+}
+.thxtrestitle{
+    text-align:center;
+    color:black;
+}
+.thxtres{
+    text-align:center;
+    color:black;
+}
 .banner{
   text-align:right;
   display: block;
